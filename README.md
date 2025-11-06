@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 I’m a **Full-Stack Developer** specialized in creating **enterprise-grade systems** for industrial and corporate environments.  
-Over the years, I’ve built end-to-end applications connecting logistics, production, quality, and administrative sectors —  
+Over the years, I’ve built end-to-end applications connecting logistics, production, quality assurance, and administrative sectors —  
 delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
 
 - 💼 Experience with **industrial digital transformation** and automation.  
