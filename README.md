@@ -43,6 +43,7 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
   <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="55" style="margin: 12px;"/>
   <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="55" style="margin: 12px;"/>
   <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="55" style="margin: 12px;"/>
+  <img src="https://i.imgur.com/uEvoj4G.png" alt="CSS3" width="55" style="margin: 12px;"/>
 </p>
 
 ### 💾 Databases
@@ -73,11 +74,11 @@ Operators can request directly via computer, tablet, or smartphone — improving
 
 **Technologies:**  
 <p align="left">
-  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="45" style="margin: 8px;"/>
-  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="45" style="margin: 8px;"/>
-  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="45" style="margin: 8px;"/>
-  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="45" style="margin: 8px;"/>
-  <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="45" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="25" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="25" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="25" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="margin: 8px;"/>
 </p>
 
 ---
