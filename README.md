@@ -90,7 +90,7 @@ Platform for registering and tracking non-conforming parts, analyzing impacts an
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
