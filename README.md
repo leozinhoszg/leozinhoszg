@@ -196,6 +196,22 @@ I focus on delivering **secure, scalable, and maintainable enterprise systems** 
 
 ---
 
+## 🎨 Creative & Design Skills
+
+In addition to building enterprise systems, I also have experience and knowledge in **web design** and **multimedia production** — combining technology and creativity to deliver complete, professional solutions.
+
+I use **Adobe tools** for:
+- 🎬 **Video creation and editing**
+- 🖼️ **Image editing and vectorization**
+- 💻 **Web design and interface composition**
+
+<p align="center">
+  <img src="https://i.imgur.com/mdSQYj3.png" alt="Adobe Illustrator" width="50" style="margin: 12px;"/>
+  <img src="https://i.imgur.com/BtA4OhZ.png" alt="Adobe Photoshop" width="50" style="margin: 12px;"/>
+  <img src="https://i.imgur.com/rJA8DH7.png" alt="Adobe Premiere" width="50" style="margin: 12px;"/>
+</p>
+
+
 ## 🌐 Languages
 
 <table>
