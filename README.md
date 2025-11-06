@@ -199,11 +199,26 @@ I focus on delivering **secure, scalable, and maintainable enterprise systems** 
 
 ## 🌐 Languages
 
-<p align="left">
-  <img src="https://i.imgur.com/B4xG85v.png" alt="Brazil Flag" width="25" /> **Portuguese** – Native  
-  <br>
-  <img src="https://i.imgur.com/YOyrhqm.png" alt="USA Flag" width="25" /> **English** – Intermediate / Technical Proficiency
-</p>
+## 🌐 Languages
+
+<table>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="https://i.imgur.com/B4xG85v.png" alt="Brazil Flag" width="25" height="18" style="margin-right: 8px;"/>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>Portuguese</strong> – Native
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="https://i.imgur.com/YOyrhqm.png" alt="USA Flag" width="25" height="18" style="margin-right: 8px;"/>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>English</strong> – Intermediate / Technical Proficiency
+    </td>
+  </tr>
+</table>
 
 ## 📫 Contact Me
 
