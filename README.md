@@ -62,7 +62,7 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
 
 ## 🚀 Featured Projects
 
-### 🏭 **PROMALOG**
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMALOG**
 **Sector:** Logistics  
 **Description:**  
 Application designed to streamline the request process for components and materials.  
@@ -71,7 +71,7 @@ Operators can request directly via computer, tablet, or smartphone — improving
 
 ---
 
-### 🧪 **PROMA QUALITUS**
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA QUALITUS**
 **Sector:** Quality  
 **Description:**  
 Platform for registering and tracking non-conforming parts, analyzing impacts and causes for corrective action.  
@@ -79,7 +79,7 @@ Platform for registering and tracking non-conforming parts, analyzing impacts an
 
 ---
 
-### 🧭 **PROMA ALL-IN-ONE**
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA ALL-IN-ONE**
 **Sectors:** Product & Process Engineering, Logistics, and Quality  
 **Description:**  
 Integrated platform for managing all components in the production process.  
@@ -88,7 +88,7 @@ Includes a complete Bill of Materials and ERP integration with detailed records 
 
 ---
 
-### 💰 **PROMA SPESE**
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA SPESE**
 **Sector:** Administrative / Financial  
 **Description:**  
 Corporate expense and travel management system with approval workflows, file uploads, dashboards, and hierarchical permissions.  
@@ -97,7 +97,7 @@ Includes historical logs, secure payment module, and analytical reporting.
 
 ---
 
-### 🧾 **PROMA PSMX**
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA PSMX**
 **Sectors:** Safety & HR  
 **Description:**  
 Portal for managing third-party and contractor compliance.  
