@@ -88,6 +88,7 @@ Platform for registering and tracking non-conforming parts, analyzing impacts an
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
@@ -104,6 +105,7 @@ Includes a complete Bill of Materials and ERP integration with detailed records 
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
@@ -121,11 +123,13 @@ Includes historical logs, secure payment module, and analytical reporting.
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/Fb8cPdL.png" alt="Redis" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
 ---
 
@@ -137,6 +141,7 @@ Features document control, access authorization, validity alerts, and CPF-based 
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
@@ -153,11 +158,13 @@ Allows users to track expenses, manage budgets, credit card payments, and financ
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/Fb8cPdL.png" alt="Redis" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 > 💡 *Independent SaaS project focused on personal financial control and analytics.*
 
 If you liked my work and want to support future improvements, please consider giving the project a ⭐ on GitHub — it really helps!
