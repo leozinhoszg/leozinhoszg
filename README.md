@@ -70,7 +70,15 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
 **Description:**  
 Application designed to streamline the request process for components and materials.  
 Operators can request directly via computer, tablet, or smartphone — improving speed and traceability.  
-**Technologies:** Node.js (Backend), HTML, CSS, JavaScript (Frontend), MySQL (Database)
+
+**Technologies:**  
+<p align="left">
+  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="45" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="45" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="45" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="45" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="45" style="margin: 8px;"/>
+</p>
 
 ---
 
