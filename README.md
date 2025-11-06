@@ -30,35 +30,35 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
 ## 🛠️ Tech Stack
 
 ### 🧩 Languages & Frameworks
-<p align="left">
-  <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/PoGjtxs.png" alt="NestJS" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="40" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="40" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/PoGjtxs.png" alt="NestJS" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="50" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="50" style="margin: 8px;"/>
 </p>
 
 ### 💾 Databases
-<p align="left">
-  <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/WAapSTc.png" alt="MariaDB" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/elxJr4z.png" alt="PostgreSQL" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/Fb8cPdL.png" alt="Redis" width="45" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/WAapSTc.png" alt="MariaDB" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/elxJr4z.png" alt="PostgreSQL" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/Fb8cPdL.png" alt="Redis" width="55" style="margin: 8px;"/>
 </p>
 
 ### ⚙️ Tools & DevOps
-<p align="left">
-  <img src="https://i.imgur.com/zOEniyh.png" alt="Docker" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/IFTLzib.png" alt="Nginx" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/xki9hrE.png" alt="Git" width="45" style="margin-right: 10px;"/>
-  <img src="https://i.imgur.com/kApnlnN.png" alt="Vercel" width="45" style="margin-right: 10px;"/>
+<p align="center">
+  <img src="https://i.imgur.com/zOEniyh.png" alt="Docker" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/IFTLzib.png" alt="Nginx" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/xki9hrE.png" alt="Git" width="55" style="margin: 8px;"/>
+  <img src="https://i.imgur.com/kApnlnN.png" alt="Vercel" width="55" style="margin: 8px;"/>
 </p>
 
 ---
