@@ -119,7 +119,6 @@ Includes a complete Bill of Materials and ERP integration with detailed records 
 **Description:**  
 Corporate expense and travel management system with approval workflows, file uploads, dashboards, and hierarchical permissions.  
 Includes historical logs, secure payment module, and analytical reporting.  
-**Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
 
 **Technologies:** 
 <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
