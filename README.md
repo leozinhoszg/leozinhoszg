@@ -106,12 +106,14 @@ Features document control, access authorization, validity alerts, and CPF-based 
 
 ---
 
-### 💼 **MONEYHUB**
+### <img src="https://i.imgur.com/GqUoQIa.png" alt="MoneyHub Logo" width="20" height="20" /> **MONEYHUB**
 **Personal Project**  
 **Description:**  
 Personal finance management platform inspired by Mobilis.  
 Allows users to track expenses, manage budgets, credit card payments, and financial planning.  
 **Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
+> 💡 *Independent SaaS project focused on personal financial control and analytics.*
+
 
 ---
 
