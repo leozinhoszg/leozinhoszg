@@ -72,7 +72,7 @@ Operators can request directly via computer, tablet, or smartphone — improving
 ---
 
 ### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA QUALITUS**
-**Sector:** Quality  
+**Sector:** Quality Assurance — responsible for verifying the quality of components.
 **Description:**  
 Platform for registering and tracking non-conforming parts, analyzing impacts and causes for corrective action.  
 **Technologies:** Python (Backend), React + Vite (Frontend), MySQL (Database)
@@ -80,7 +80,7 @@ Platform for registering and tracking non-conforming parts, analyzing impacts an
 ---
 
 ### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA ALL-IN-ONE**
-**Sectors:** Product & Process Engineering, Logistics, and Quality  
+**Sectors:** Product & Process Engineering, Logistics, and Quality Assurance
 **Description:**  
 Integrated platform for managing all components in the production process.  
 Includes a complete Bill of Materials and ERP integration with detailed records for machines, lines, suppliers, and packaging.  
