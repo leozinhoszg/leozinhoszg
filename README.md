@@ -1,5 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Leonardo Guimaraes</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/shBTIBM.png" alt="Leonardo Souza Banner" width="100%" />
+</p>
 <h3 align="center">Full-Stack Developer | Industrial Systems | Process Optimization</h3>
 
 <p align="center">
