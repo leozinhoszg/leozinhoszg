@@ -31,19 +31,19 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
 
 ### 🧩 Languages & Frameworks
 <p align="center">
-  <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/PoGjtxs.png" alt="NestJS" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/OST2Urm.png" alt="Tailwind" width="55" style="margin: 12px;"/>
+  <img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/PoGjtxs.png" alt="NestJS" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="55" style="margin: 15px;"/>
+  <img src="https://i.imgur.com/OST2Urm.png" alt="Tailwind" width="55" style="margin: 15px;"/>
 </p>
 
 ### 💾 Databases
