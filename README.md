@@ -114,6 +114,22 @@ Allows users to track expenses, manage budgets, credit card payments, and financ
 **Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
 > 💡 *Independent SaaS project focused on personal financial control and analytics.*
 
+If you liked my work and want to support future improvements, please consider giving the project a ⭐ on GitHub — it really helps!
+
+<p align="left">
+  <a href="https://github.com/leozinhoszg/moneyhub">
+    <img src="https://img.shields.io/badge/Visit%20MoneyHub%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MoneyHub GitHub" />
+  </a>
+</p>
+
+### 🧩 How to Contribute
+Contributions are always welcome!  
+You can:
+- 🐛 Report issues or suggest new features via the [Issues page](https://github.com/leozinhoszg/moneyhub/issues)  
+- 💡 Open pull requests to improve the codebase or documentation  
+- ⭐ Star the repository to show your support  
+
+Your feedback and ideas help improve the project and keep it growing!
 
 ---
 
