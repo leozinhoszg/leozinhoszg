@@ -73,11 +73,11 @@ Application designed to streamline the request process for components and materi
 Operators can request directly via computer, tablet, or smartphone — improving speed and traceability.  
 
 **Technologies:** 
-<img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="35" style="vertical-align: middle; margin-left: 8px;"/>
-<img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="35" style="vertical-align: middle; margin-left: 8px;"/>
-<img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="35" style="vertical-align: middle; margin-left: 8px;"/>
-<img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="35" style="vertical-align: middle; margin-left: 8px;"/>
-<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="35" style="vertical-align: middle; margin-left: 8px;"/>
+<img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
 ---
 
