@@ -43,7 +43,7 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
   <img src="https://i.imgur.com/gftvko0.png" alt="Vue" width="55" style="margin: 12px;"/>
   <img src="https://i.imgur.com/JxQOEDB.png" alt="HTML5" width="55" style="margin: 12px;"/>
   <img src="https://i.imgur.com/f9QYcQ9.png" alt="CSS3" width="55" style="margin: 12px;"/>
-  <img src="https://i.imgur.com/uEvoj4G.png" alt="CSS3" width="55" style="margin: 12px;"/>
+  <img src="https://i.imgur.com/OST2Urm.png" alt="Tailwind" width="55" style="margin: 12px;"/>
 </p>
 
 ### 💾 Databases
@@ -101,7 +101,14 @@ Platform for registering and tracking non-conforming parts, analyzing impacts an
 **Description:**  
 Integrated platform for managing all components in the production process.  
 Includes a complete Bill of Materials and ERP integration with detailed records for machines, lines, suppliers, and packaging.  
-**Technologies:** Python (Backend), React + Vite (Frontend), MySQL (Database)
+
+**Technologies:** 
+<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
 ---
 
@@ -112,14 +119,29 @@ Corporate expense and travel management system with approval workflows, file upl
 Includes historical logs, secure payment module, and analytical reporting.  
 **Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
 
+**Technologies:** 
+<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+
 ---
 
 ### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA PSMX**
 **Sectors:** Safety & HR  
 **Description:**  
 Portal for managing third-party and contractor compliance.  
-Features document control, access authorization, validity alerts, and CPF-based gate control.  
-**Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
+Features document control, access authorization, validity alerts, and CPF-based gate control.
+
+**Technologies:** 
+<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
 ---
 
@@ -128,7 +150,14 @@ Features document control, access authorization, validity alerts, and CPF-based 
 **Description:**  
 Personal finance management platform inspired by Mobilis.  
 Allows users to track expenses, manage budgets, credit card payments, and financial planning.  
-**Technologies:** Python (Backend), Next.js + React (Frontend), MySQL (Database)
+
+**Technologies:** 
+<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 > 💡 *Independent SaaS project focused on personal financial control and analytics.*
 
 If you liked my work and want to support future improvements, please consider giving the project a ⭐ on GitHub — it really helps!
