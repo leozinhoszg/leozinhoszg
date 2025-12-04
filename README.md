@@ -177,21 +177,6 @@ If you liked my work and want to support future improvements, please consider gi
 
 --
 
-### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA si**
-**Sectors:** Safety & HR  
-**Description:**  
-Portal for managing third-party and contractor compliance.  
-Features document control, access authorization, validity alerts, and CPF-based gate control.
-
-**Technologies:** 
-<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-
 ### 🧩 How to Contribute
 Contributions are always welcome!  
 You can:
