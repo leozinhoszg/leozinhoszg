@@ -51,6 +51,7 @@ delivering secure, efficient, and data-driven solutions for PROMA Group LATAM.
   <img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="60" style="margin: 35px;"/>
   <img src="https://i.imgur.com/WAapSTc.png" alt="MariaDB" width="60" style="margin: 35px;"/>
   <img src="https://i.imgur.com/elxJr4z.png" alt="PostgreSQL" width="60" style="margin: 35px;"/>
+  <img src="https://i.imgur.com/2ePdCkU.png" alt="MongoDB" width="60" style="margin: 35px;"/>
   <img src="https://i.imgur.com/Fb8cPdL.png" alt="Redis" width="60" style="margin: 35px;"/>
 </p>
 
@@ -174,6 +175,23 @@ If you liked my work and want to support future improvements, please consider gi
   </a>
 </p>
 
+--
+
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA si**
+**Sectors:** Safety & HR  
+**Description:**  
+Portal for managing third-party and contractor compliance.  
+Features document control, access authorization, validity alerts, and CPF-based gate control.
+
+**Technologies:** 
+<img src="https://i.imgur.com/wCp2ydH.png" alt="Python" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/hBureE7.png" alt="FastAPI" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/toOQ6RU.png" alt="NextJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/jCADgyl.png" alt="TypeScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/fB8V8j9.png" alt="MySQL" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+
 ### 🧩 How to Contribute
 Contributions are always welcome!  
 You can:
@@ -184,6 +202,23 @@ You can:
 Your feedback and ideas help improve the project and keep it growing!
 
 ---
+
+### <img src="https://i.imgur.com/czyuMoa.png" alt="PROMA Logo" width="20" height="20" /> **PROMA SIGN**
+**Sectors:** All Company Sectors  
+**Description:**  
+Digital signature application similar to Docusign.  
+Features secure document signing, tracking, and management for efficient workflows.  
+**Access:** https://promasign.promagroup.com/
+
+**Technologies:** 
+<img src="https://i.imgur.com/NsTeJZp.png" alt="NodeJS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/3qG3mqv.png" alt="React" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://i.imgur.com/2ePdCkU.png" alt="MongoDB" width="60" style="margin: 35px;"/>
+
+--
 
 ## 🔒 Professional Focus
 
