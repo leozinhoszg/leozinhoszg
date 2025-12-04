@@ -201,7 +201,7 @@ Features secure document signing, tracking, and management for efficient workflo
 <img src="https://i.imgur.com/YA65luj.png" alt="Vite" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/uZz6SFm.png" alt="JavaScript" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 <img src="https://i.imgur.com/OST2Urm.png" alt="TailwindCSS" width="25" style="vertical-align: middle; margin-left: 10px;"/>
-<img src="https://i.imgur.com/2ePdCkU.png" alt="MongoDB" width="60" style="margin: 35px;"/>
+<img src="https://i.imgur.com/2ePdCkU.png" alt="MongoDB" width="25" style="vertical-align: middle; margin-left: 10px;"/>
 
 --
 
